@@ -1,6 +1,6 @@
-# Find My Book
+# FindMyBook
 
-Find My Book este o aplicație desktop pentru Windows care permite cititorilor să găsească rapid cărțile disponibile în bibliotecile digitale și fizice. Aplicația oferă linkuri către cărțile online și informații despre biblioteca fizică unde pot fi găsite. Scopul principal este de a facilita accesul la informații despre cărți într-un mod intuitiv și rapid, folosind un prototip interactiv creat în Figma.
+FindMyBook este o aplicație desktop pentru Windows care permite cititorilor să găsească rapid cărțile disponibile în bibliotecile digitale și fizice. Aplicația oferă linkuri către cărțile online și informații despre biblioteca fizică unde pot fi găsite. Scopul principal este de a facilita accesul la informații despre cărți într-un mod intuitiv și rapid, folosind un prototip interactiv creat în Figma.
 
 ## Membrii
   1. Tiholaz Loredana
