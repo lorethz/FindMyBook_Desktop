@@ -28,3 +28,5 @@ FindMyBook este o aplicație desktop pentru Windows care permite cititorilor să
 ## Linkuri
 - Trello: [https://trello.com/invite/b/6930206fcb3473495569db44/ATTI3e75da2d23edfa6f5146071333bd84a2A7726E86/figma](https://trello.com/invite/b/6930206fcb3473495569db44/ATTI3e75da2d23edfa6f5146071333bd84a2A7726E86/figma)  
 - Figma: [https://www.figma.com/design/bA6LDCvswHb3fwz6cleV7l/Biblioteca?node-id=111-1129&t=ewnixuPfb8H6wCNh-1](https://www.figma.com/design/bA6LDCvswHb3fwz6cleV7l/Biblioteca?node-id=11)
+- Canva: [https://www.canva.com/design/DAG6045DydY/C6klV2_w-32BlgcQrjxEGg/edit?utm_content=DAG6045DydY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+(https://www.canva.com/design/DAG6045DydY/C6klV2_w-32BlgcQrjxEGg/edit?utm_content=DAG6045DydY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
